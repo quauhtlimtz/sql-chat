@@ -1,0 +1,6 @@
+pandas
+streamlit
+plotly
+psycopg2-binary==2.9.3
+logging
+vanna
