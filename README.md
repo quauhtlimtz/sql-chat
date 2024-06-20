@@ -27,7 +27,7 @@ This project is a Streamlit application that allows users to generate SQL querie
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/streamlit-sql-app.git
+    git clone https://github.com/quauhtlimtz/sql-chat.git
     cd streamlit-sql-app
     ```
 
